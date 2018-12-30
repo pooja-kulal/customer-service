@@ -8,10 +8,21 @@
 <p><font color="white">Running applications in containers instead of virtual machines is gaining momentum in the IT world. The technology is considered to be one of the fastest growing in the recent history of the software industry. At its heart lies Docker, a platform that allows users to easily pack, distribute, and manage applications within containers. In other words, It is an open-source project that automates the deployment of applications inside software containers.
 
 Docker really makes it easier to create, deploy, and run applications by using containers, and containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. By doing so, the developer can be assured that the application will run on any other Linux machine regardless of any customized settings that machine might have that could differ from the machine used for writing and testing the code.</font></p>
+<p><font color="white">we provide containers for large scale industries and also small scale industries  in less price.</font></p>
 </body>
 <style>
 body {
-        background-image: url("/home/ubuntu/webpage/pic.jpg");
+        background-image: url("/home/ubuntu/webpage/pic1.jpeg");
 } 
  
 </style>
+
+<div class="form">
+      
+      <ul class="tab-group">
+       <p><font color="white"> To proceed to buy a container you will have to sign up here</font></p>
+        <li class="tab active"><a href="#signup"><font color="white">Sign Up</font></a></li>
+         <p><font color="white"> if you have already signed up please login to your account</font></p>
+        <li class="tab"><a href="#login"><font color="white">Log In</font></a></li>
+      </ul>
+</div>
